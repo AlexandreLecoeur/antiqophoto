@@ -1,0 +1,7 @@
+%syntax-version=1.0.0
+%project=antiqophoto
+%uri=https://github.com/O-clock-Daguerre/projet-10-antiq-o-photo
+
+create_database 2022-08-19T08:47:14Z Aurelien <aurelien.hilaire@sncf.fr> # making tables
+sql_queries 2022-08-19T09:34:43Z Aurelien <aurelien.hilaire@sncf.fr> # Add CRUD
+read_functions 2022-08-22T08:18:45Z Alexandre Lecoeur <alexandre.lecoeur@gmail.com> # create select functions

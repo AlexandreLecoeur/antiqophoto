@@ -1,0 +1,37 @@
+@use 'reset';
+@use 'vars';
+
+body {
+  font-family: sans-serif;
+  background-color: vars.$color-main!important;
+  color: vars.$color-text!important;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+}
+
+
+
+
+/* 
+  // or you can import your own font
+  @font-face {
+    font-family: 'Roboto';
+    src: url('../assets/fonts/Roboto-Regular.ttf');
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+*/
+
+@keyframes grow {
+  0% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+  
+}

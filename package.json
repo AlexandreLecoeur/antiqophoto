@@ -1,0 +1,22 @@
+{
+  "name": "projet-10-antiq-o-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "front":"cd front && npm start",
+    "back":"cd back &&  npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Daguerre/projet-10-antiq-o-photo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Daguerre/projet-10-antiq-o-photo/issues"
+  },
+  "homepage": "https://github.com/O-clock-Daguerre/projet-10-antiq-o-photo#readme"
+}
