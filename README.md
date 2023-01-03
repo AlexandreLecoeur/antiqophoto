@@ -33,7 +33,6 @@ The project is still under development, changes will be gradually implemented be
 
 ## How to install this project ?
 1. Retrieve the gitHub repository,
-2. Go to dev branch,
 3. Install all back and front dependencies,
 4. Create a postgreSQL database,
 5. Create .env file according to .env.example,
